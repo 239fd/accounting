@@ -1,0 +1,18 @@
+
+.Navigation{
+    font-size: calc(60px + (16 + 16 * 0.7) * ((100vw - 320px) / 1280));
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+
+}
+.list-unstyled{
+    text-decoration: none;
+    text-align: center;
+    font-size: 2.3vw;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
