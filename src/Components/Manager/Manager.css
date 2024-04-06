@@ -1,0 +1,26 @@
+.takeDoc{
+    padding: 2vw;
+    text-align: center;
+}
+.startInput{
+    padding: 1vw;
+    font-size: 1.5vw;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.endInput{
+    padding: 1vw;
+    font-size: 1.5vw;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.confirmButton{
+    color: #fff; /* Белый цвет текста */
+    border: none; /* Убираем рамку */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    margin-bottom: 1rem; /* Отступ снизу */
+    background-color: black;
+
+}
