@@ -1,0 +1,40 @@
+.main-table{
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+.input{
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-decoration: none;
+    font-size: 1.4vw;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+}
+
+.button1{
+    font-size: 1vw;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
+.button2{
+    font-size: 1vw;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10px;
+    background-color: black;
+    color: white;
+
+}
+.buttons{
+    text-align: center;
+}
